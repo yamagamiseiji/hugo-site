@@ -15,8 +15,7 @@
       
       <guid>https://born-in-bingo.netlify.app/posts/kojo/</guid>
       <description>Figure 1: テスト画像
-  これまで2年ほどブログ書きは下のようなフローでやってきました。
-Emacs &amp;gt; org2blog &amp;gt; WordPress &amp;gt; freenom &amp;gt; AWS しかし</description>
+  これまで2年ほどブログ書きは下のようなフローでやってきました。</description>
     </item>
     
     <item>
@@ -46,9 +45,7 @@ Emacs &amp;gt; org2blog &amp;gt; WordPress &amp;gt; freenom &amp;gt; AWS しか�
       
       <guid>https://born-in-bingo.netlify.app/posts/old-workbench/</guid>
       <description>知人の紹介でこの土地＝片品村にお世話になっていますが、 ん十年前 にウッドデッキを作ったりするために色々な工具や道具を購入しました。この 折りたたみワークベンチ も、ん十年来の付き合いです。
-長い付き合いの期間中、使わないときは一年中 屋外 に置きっぱなしにしていました。一応ブルーシートで覆ってはいましたが、ここの標高は1,000mほどあります。冬場は天板の高さまで雪が積もります。そうしたとても厳しい、というか悪条件の中で長年「屋外生活」をさせた道具が急にいとおしくなってきました。
-そこで今日のテーマは：
-長年の「虐待」でいたんだワークベンチを復活させよう！ です。</description>
+長い付き合いの期間中、使わないときは一年中 屋外 に置きっぱなしにしていました。一応ブルーシートで覆ってはいましたが、ここの標高は1,000mほどあります。冬場は天板の高さまで雪が積もります。そうしたとても厳しい、というか悪条件の中で長年「屋外生活」をさせた道具が急にいとおしくなってきました。</description>
     </item>
     
     <item>
@@ -58,8 +55,7 @@ Emacs &amp;gt; org2blog &amp;gt; WordPress &amp;gt; freenom &amp;gt; AWS しか�
       
       <guid>https://born-in-bingo.netlify.app/posts/old-jigsaw/</guid>
       <description>しばらくぶりのブログ投稿です。今回はDIYっぽい話題です。
-5mmほどの厚みの合板を丸く切って直径約40cmの円盤に加工したい ということで、久しぶりに工具箱から ジグソー を引っ張り出しました。ブラック・アンド・デッカー（ B&amp;amp;D ）社の製品で型番は 7504-03/04 。記憶にないほど大昔に入手したものです。写真のようにホコリまみれでした。
-  Figure 1: 古いジグソー（B&amp;amp;D社製）</description>
+5mmほどの厚みの合板を丸く切って直径約40cmの円盤に加工したい ということで、久しぶりに工具箱から ジグソー を引っ張り出しました。ブラック・アンド・デッカー（ B&amp;amp;D ）社の製品で型番は 7504-03/04 。記憶にないほど大昔に入手したものです。写真のようにホコリまみれでした。</description>
     </item>
     
     <item>
@@ -73,14 +69,154 @@ Emacs &amp;gt; org2blog &amp;gt; WordPress &amp;gt; freenom &amp;gt; AWS しか�
     </item>
     
     <item>
-      <title>Test2</title>
-      <link>https://born-in-bingo.netlify.app/posts/test2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Give me a break!</title>
+      <link>https://born-in-bingo.netlify.app/posts/broken-histogram/</link>
+      <pubDate>Wed, 22 Apr 2020 10:21:00 +0900</pubDate>
       
-      <guid>https://born-in-bingo.netlify.app/posts/test2/</guid>
-      <description>hogehoge.
-改行コード設定
-どうなっているの？</description>
+      <guid>https://born-in-bingo.netlify.app/posts/broken-histogram/</guid>
+      <description>新型コロナによってたくさんの国民の 生命財産 が脅威にさらされています。それに対するわが国政府の対応はあまりにもひどい。腹立たしくも情けなく恥ずかしい思いで、日々ストレスが溜まっています。国民から巻き上げた 税金 をどうして国民のために使えないのか。もういい加減にして欲しい！ &amp;lsquo;Give me a break !</description>
+    </item>
+    
+    <item>
+      <title>予算消化状況を日々 ledger-cliとgnuplotでモニターする</title>
+      <link>https://born-in-bingo.netlify.app/posts/daily-expns-watcher/</link>
+      <pubDate>Mon, 09 Mar 2020 19:40:00 +0900</pubDate>
+      
+      <guid>https://born-in-bingo.netlify.app/posts/daily-expns-watcher/</guid>
+      <description>新型コロナウイルス という外来の危機（ 外患 ）加えて、3月に入ってから、破れかぶれの政府が支離滅裂な迷走状態に入るという 内憂 が重なって、ますます気分が鬱々としています。現在の政府・内閣の挙動はおよそ組織としての体をなしていませんよね。政府と内閣だけでなく、霞が関全体とマスコミが 挙国一致 してこの暴走を見てみぬふりをしている。これまで歴史上、無数の国や組織体が壊れて消滅しましたが、 「帝国」 はこんな風にして 内側 から崩壊するんですね。</description>
+    </item>
+    
+    <item>
+      <title>予算消化率の水平ゲージをledger-cliとgnuplotで描く</title>
+      <link>https://born-in-bingo.netlify.app/posts/horizontal-gauge-by-gnuplot/</link>
+      <pubDate>Fri, 21 Feb 2020 18:05:00 +0900</pubDate>
+      
+      <guid>https://born-in-bingo.netlify.app/posts/horizontal-gauge-by-gnuplot/</guid>
+      <description>きっかけ 新型コロナウイルス が、政府のunbelievableな不手際もあって急速に蔓延してます。ニュースを見るたびに気が滅入ってきます。そこで、というわけでもありませんが、一ヶ月の 支出予算 がどれくらい消化されているかを表示する 水平ゲージ （horizontal linear gauge）を作ってみました。ねらいは次のようなものです：</description>
+    </item>
+    
+    <item>
+      <title>ぼちぼちですが可視化してます</title>
+      <link>https://born-in-bingo.netlify.app/posts/%E5%8F%AF%E8%A6%96%E5%8C%96/</link>
+      <pubDate>Fri, 31 Jan 2020 12:29:00 +0900</pubDate>
+      
+      <guid>https://born-in-bingo.netlify.app/posts/%E5%8F%AF%E8%A6%96%E5%8C%96/</guid>
+      <description>ここでは、 Ledger-cli （3.11）と Gnuplot （5.28）および bash （on ubuntu16.04）の組み合わせで描いた各種グラフのとりあえず「 見た目 」だけを紹介します。中身の説明とかソースなどは後日、GitHubとかに上げます。</description>
+    </item>
+    
+    <item>
+      <title>忘年会会計をledger-cliで</title>
+      <link>https://born-in-bingo.netlify.app/posts/%E5%BF%98%E5%B9%B4%E4%BC%9A/</link>
+      <pubDate>Tue, 17 Dec 2019 00:00:00 +0900</pubDate>
+      
+      <guid>https://born-in-bingo.netlify.app/posts/%E5%BF%98%E5%B9%B4%E4%BC%9A/</guid>
+      <description>忘年会シーズン 忘年会シーズンですね。
+最近は 会社の忘年会 への風当たりが強くなってきています。とくに若い世代に不賛同の声が多いようです。その一方で、年長者には伝統的な行事のひとつとして継続して欲しいという気持ちがあるのも分かります。
+  若い世代と年長者の両方を立てるために、忘年会のお約束として「出席を無理強いしない」「宴席で仕事の話はしない」「セクハラ・パワハラ・アルハラはしない」などを申し合わせるのはどうでしょうか。</description>
+    </item>
+    
+    <item>
+      <title>榎下城と観護寺</title>
+      <link>https://born-in-bingo.netlify.app/posts/%E6%A6%8E%E4%B8%8B%E5%9F%8E/</link>
+      <pubDate>Sun, 15 Dec 2019 13:13:00 +0900</pubDate>
+      
+      <guid>https://born-in-bingo.netlify.app/posts/%E6%A6%8E%E4%B8%8B%E5%9F%8E/</guid>
+      <description>榎下城址 ボクの自宅の最寄り駅は横浜線・十日市場ですが、そのお隣の駅＝ 中山駅 の近くに「 榎下城址 」があります。榎下城址へは、自宅から新治市民の森 を抜けるルートで徒歩30分程度です。
+さて、図1は榎下城址の銘板です。かなり古びて傷んでいますが、図がおもしろいので記録しておきました。銘板にあるように、 榎下城 が築城されたのは永享年間（1429年〜1441年）で関東管領・上杉 憲清 （生没年？）によるとされています。憲清は宅間上杉家の筆頭四家の流れをくむ名家の出でした。</description>
+    </item>
+    
+    <item>
+      <title>Ledger-cliで「車検」の転記</title>
+      <link>https://born-in-bingo.netlify.app/posts/%E8%BB%8A%E6%A4%9C%E8%BB%A2%E8%A8%98/</link>
+      <pubDate>Fri, 06 Dec 2019 15:29:00 +0900</pubDate>
+      
+      <guid>https://born-in-bingo.netlify.app/posts/%E8%BB%8A%E6%A4%9C%E8%BB%A2%E8%A8%98/</guid>
+      <description>車検哀歌 12月2日（月）、車検が終わりました。毎度のことながら車検は金がかかりますね（涙）。
+  まずは２年分の税金（ 重量税 ）と 自賠責保険料 そして 手数料 （印紙代）、これはキャッシュでディーラに預けます。その他にクルマの状況によっては 点検整備費 がどっさり請求されます。よく見るとワイパー交換とか、わざわざディラー様でやらなくても通販などで安く買え、交換も簡単というものまで入ってきますよね（笑）。車種によりますが、わが愛車フォレスターではトータルでざくっと15万円前後というイメージです。</description>
+    </item>
+    
+    <item>
+      <title>プレーンテキストファイルで「複式」家計簿（10）</title>
+      <link>https://born-in-bingo.netlify.app/posts/10th-step/</link>
+      <pubDate>Tue, 03 Dec 2019 21:05:00 +0900</pubDate>
+      
+      <guid>https://born-in-bingo.netlify.app/posts/10th-step/</guid>
+      <description>今回をもって、とりあえずシリーズ的なイントロ的投稿は 打ち止め にします。今後は、これまで以上にトピックベースの ショート・ショート 形式での記事にします。
+帳簿の厳密さ・細かさについて このシリーズの (3)で、小額キャッシュの扱いについて、「あまり細かいことはさておいて大雑把に行きましょう」という風な記述をしました。現在は、この考え方はかなり変わってきています。</description>
+    </item>
+    
+    <item>
+      <title>プレーンテキストファイルで「複式」家計簿（9）</title>
+      <link>https://born-in-bingo.netlify.app/posts/9th-step_ledger/</link>
+      <pubDate>Fri, 04 Oct 2019 00:00:00 +0900</pubDate>
+      
+      <guid>https://born-in-bingo.netlify.app/posts/9th-step_ledger/</guid>
+      <description>2019年10月1日から消費税が（一部）10%に増税になりました。ボクは経済学が専門ではありませんが、不況下で増税するのはどういう理屈なんでしょうか？不況には 減税 するものと思っていました。経済の専門家のみなさんはオッケーなんですかね？
+ま、それはともかくとして、庶民としてはなんとか対応しなければならないわけです。その一つが家計簿などの帳簿でどうやって仕訳するか、です（小さいなぁ〜ｗ）。
+物品やサービスごとに税率が8%だったり10%だったりするだけならば、帳簿書きは簡単。ですが、今回は増税に同期して キャッシュレス還元 という不思議な仕掛けが始まりました。ここでは、とりあえずそれへの対応を紹介します。
+キャッシュレス還元が始まった これが 増税 とペアになって始まったこと、それから８ヶ月後には終わりになることなど、とても イミフ な状況ですが、今日（10月3日）、増税後はじめてセブンイレブンで買い物をしてレシートをもらいました。次のような内容でした：</description>
+    </item>
+    
+    <item>
+      <title>プレーンテキストファイルで「複式」家計簿（8）</title>
+      <link>https://born-in-bingo.netlify.app/posts/8th-step_ledger/</link>
+      <pubDate>Mon, 16 Sep 2019 10:10:00 +0900</pubDate>
+      
+      <guid>https://born-in-bingo.netlify.app/posts/8th-step_ledger/</guid>
+      <description>高速道路料金、高い！ 日本の高速道路料金は 不当に高い ですよね。誰もがそう感じていると思います。
+一体どうなっているのか、 国際比較 のデータを見たいと思って報告書や資料、ネットを探しても、なかなかこれというものが見つかりませんでした。つい最近、偶然、こちらにとてもコンパクトにまとまったデータを見つけました。元は英語だったので日本語にさせてもらいました。なお、「円」換算はその日のレートによって異なります。およその目安としてごらんください。
+  Figure 1: 高速道路料金国際比較（https://livejapan.</description>
+    </item>
+    
+    <item>
+      <title>プレーンテキストファイルで「複式」家計簿（7）</title>
+      <link>https://born-in-bingo.netlify.app/posts/7th-step_ledger/</link>
+      <pubDate>Wed, 14 Aug 2019 12:30:00 +0900</pubDate>
+      
+      <guid>https://born-in-bingo.netlify.app/posts/7th-step_ledger/</guid>
+      <description>AndroidタブレットでLedger cli 家計簿のみならず全ての会計帳簿は 即時性 と 継続性 を基礎にした 正確さ が命です。</description>
+    </item>
+    
+    <item>
+      <title>ハクビシンとのたたかい(2)</title>
+      <link>https://born-in-bingo.netlify.app/posts/2nd_fight_againt_maskedmusang/</link>
+      <pubDate>Sun, 11 Aug 2019 00:00:00 +0900</pubDate>
+      
+      <guid>https://born-in-bingo.netlify.app/posts/2nd_fight_againt_maskedmusang/</guid>
+      <description>本題に入る前に ボクはコーヒーが大好きです。１日に３杯は飲みます。朝食、昼食の後、３時のおやつの時間、それから夜に宴席があると食後に１杯という感じです。
+大学を定年退職する際に、ほとんどの私物は廃棄したり、訪ねてきた卒業生の方たちにgive awayしましたが、荷造りして大事に持ち帰った少数の物品のなかの１つが図1 のエスプレッソマシン（Saeco Taleaです）。
+  Figure 1: 愛用のエスプレッソマシン。今や廃版ですが現役ばりばり。</description>
+    </item>
+    
+    <item>
+      <title>ハクビシンとのたたかい（1）</title>
+      <link>https://born-in-bingo.netlify.app/posts/fight_againt_maskedmusang/</link>
+      <pubDate>Thu, 08 Aug 2019 13:47:00 +0900</pubDate>
+      
+      <guid>https://born-in-bingo.netlify.app/posts/fight_againt_maskedmusang/</guid>
+      <description>忌避剤デフューザー（発散器）の効果 これまでの経過 ８月２日 づけの投稿（ハクビシンめ！ ）で、梅雨明けとともにミニトマトが色づきはじめたこと、それと同時に夜中にハクビシンが畑に出没するようになり、トマトを喰い散らかすようになったことを報告しました。また竹酢液を長期にわたって発散させる仕掛け＝ 忌避剤デフューザー （発散器）を設置したことを報告しました。
+どうしても ８月３日 には横浜に戻らなければならない用事があったため、 竹酢液デフューザー に加えて きざみニンニク と 防鳥ネット を防御のために仕掛けておきました。きざみみニンニクは、マルチと周辺の土壌にたっぷりまいておきました。また防鳥ネット（30mm目）は、ハクビシンが歩くと、否が応でも足にまとわりついて引っかかるように、トンネル内にできるだけ ユルユル に張りました（図1）。ネットの半分以上は地面にフンワリとつくねてありますので、「張った」というよりは「 垂らした 」というべきでしょうか。</description>
+    </item>
+    
+    <item>
+      <title>ハクビシンめ！</title>
+      <link>https://born-in-bingo.netlify.app/posts/masked-musang/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0900</pubDate>
+      
+      <guid>https://born-in-bingo.netlify.app/posts/masked-musang/</guid>
+      <description>7月の末、梅雨明けとともに 梅雨が開けて、遅れていたミニトマトの実がやっとと赤くなってきた、と思っていたら、 7月27日 頃から毎夜、 ハクビシン の襲撃を受けるようになりました。
+当初は熟した実が少ないので、一晩に３，４個の食いカスがあるという状況でした。しかし 7月30日 からは、数え切れないほど食い散らかした跡が見られるようになりました。</description>
+    </item>
+    
+    <item>
+      <title>プレーンテキストファイルで「複式」家計簿（6）</title>
+      <link>https://born-in-bingo.netlify.app/posts/6th-step_ledger/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0900</pubDate>
+      
+      <guid>https://born-in-bingo.netlify.app/posts/6th-step_ledger/</guid>
+      <description>グラフを描いてみました シリーズの（1）で家計簿には 可視化 の必要性は大きくないと書きましたが、そうは言っても、Ledgerでできないわけではありません。そこで今回はとりあえずシンプルな図を描いてみました。
+4月以降からのクルマに関係する経費（いわゆる「車両費」）の月ごとの推移を 積み上げ棒グラフ の例図にしたものです。3月は一部だけデータがあったので、それもプロットしています。
+  Figure 1: Ledgerとgnuplotを組み合わせてプロットした例図</description>
     </item>
     
   </channel>

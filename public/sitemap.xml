@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://born-in-bingo.netlify.app/about/about-me/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://born-in-bingo.netlify.app/about/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://born-in-bingo.netlify.app/</loc>
+    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://born-in-bingo.netlify.app/tags/emacs/</loc>
     <lastmod>2021-03-26T00:00:00+09:00</lastmod>
   </url><url>
@@ -23,9 +32,6 @@
     <loc>https://born-in-bingo.netlify.app/tags/</loc>
     <lastmod>2021-03-26T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://born-in-bingo.netlify.app/</loc>
-    <lastmod>2021-03-26T00:00:00+09:00</lastmod>
-  </url><url>
     <loc>https://born-in-bingo.netlify.app/posts/kojo/</loc>
     <lastmod>2021-03-26T00:00:00+09:00</lastmod>
   </url><url>
@@ -44,6 +50,57 @@
     <loc>https://born-in-bingo.netlify.app/posts/hanamame-sprouting/</loc>
     <lastmod>2020-06-12T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://born-in-bingo.netlify.app/posts/test2/</loc>
+    <loc>https://born-in-bingo.netlify.app/posts/broken-histogram/</loc>
+    <lastmod>2020-04-22T10:21:00+09:00</lastmod>
+  </url><url>
+    <loc>https://born-in-bingo.netlify.app/posts/daily-expns-watcher/</loc>
+    <lastmod>2020-03-09T19:40:00+09:00</lastmod>
+  </url><url>
+    <loc>https://born-in-bingo.netlify.app/posts/horizontal-gauge-by-gnuplot/</loc>
+    <lastmod>2020-02-21T18:05:00+09:00</lastmod>
+  </url><url>
+    <loc>https://born-in-bingo.netlify.app/posts/%E5%8F%AF%E8%A6%96%E5%8C%96/</loc>
+    <lastmod>2020-01-31T12:29:00+09:00</lastmod>
+  </url><url>
+    <loc>https://born-in-bingo.netlify.app/posts/%E5%BF%98%E5%B9%B4%E4%BC%9A/</loc>
+    <lastmod>2019-12-17T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://born-in-bingo.netlify.app/posts/%E6%A6%8E%E4%B8%8B%E5%9F%8E/</loc>
+    <lastmod>2019-12-15T13:13:00+09:00</lastmod>
+  </url><url>
+    <loc>https://born-in-bingo.netlify.app/posts/%E8%BB%8A%E6%A4%9C%E8%BB%A2%E8%A8%98/</loc>
+    <lastmod>2019-12-06T15:29:00+09:00</lastmod>
+  </url><url>
+    <loc>https://born-in-bingo.netlify.app/posts/10th-step/</loc>
+    <lastmod>2019-12-03T21:05:00+09:00</lastmod>
+  </url><url>
+    <loc>https://born-in-bingo.netlify.app/posts/9th-step_ledger/</loc>
+    <lastmod>2019-10-04T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://born-in-bingo.netlify.app/posts/8th-step_ledger/</loc>
+    <lastmod>2019-09-16T10:10:00+09:00</lastmod>
+  </url><url>
+    <loc>https://born-in-bingo.netlify.app/posts/7th-step_ledger/</loc>
+    <lastmod>2019-08-14T12:30:00+09:00</lastmod>
+  </url><url>
+    <loc>https://born-in-bingo.netlify.app/posts/2nd_fight_againt_maskedmusang/</loc>
+    <lastmod>2019-08-11T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://born-in-bingo.netlify.app/posts/fight_againt_maskedmusang/</loc>
+    <lastmod>2019-08-08T13:47:00+09:00</lastmod>
+  </url><url>
+    <loc>https://born-in-bingo.netlify.app/posts/masked-musang/</loc>
+    <lastmod>2019-08-02T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://born-in-bingo.netlify.app/posts/6th-step_ledger/</loc>
+    <lastmod>2019-07-27T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://born-in-bingo.netlify.app/about/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://born-in-bingo.netlify.app/about/about/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://born-in-bingo.netlify.app/archives/</loc>
   </url>
 </urlset>

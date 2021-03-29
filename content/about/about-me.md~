@@ -1,0 +1,12 @@
++++
+title = "About Me"
+author = ["YAMAGAMI"]
+tags = ["Emacs", "hugo", "ox-hugo", "Netlify", "GitHub"]
+categories = ["about"]
+draft = false
+toc = true
++++
+
+Coming soon....
+
+{{< figure src="/me.jpg" caption="Figure 1: テスト画像" width="30%" >}}
