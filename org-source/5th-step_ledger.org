@@ -1,13 +1,12 @@
-#+BLOG: yam's peace blog
-#+POSTID: 750
-#+DATE: [2019-07-21 日 18:26]
-# -*- mode: org; mode: org2blog/wp; -*-
-#+BLOG: yam's peace blog
-#+TITLE: プレーンテキストファイルで「複式」家計簿（5）
-#+CATEGORY: ledger accounting
+#+title: プレーンテキストファイルで「複式」家計簿（5）
+#+date: [2019-07-21 日 18:26]
+
+#+hugo_base_dir: ~/blog-peace/hugo-site/
+#+hugo_section: posts
+#+options: toc:nil num:nil author:nil
+#+link: file file+sys:../static/
+#+draft: false
 #+TAGS: ledger emacs ledger accounting 
-#+OPTIONS:toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+PERMALINK: 
 
 * 再訪　「借方」「貸方」
 このシリーズ（４）でもお話しましたが、
@@ -21,14 +20,15 @@
 
 #+caption: 「帳合之法」福澤諭吉（1873）表紙
 #+name: hyoshi
-[[file:pics/s-choainoho-hyoshi.jpg]]
+#+attr_html: :width 90%
+[[file:s-choainoho-hyoshi.jpg]]
 
 「帳合之法」は国会図書館でデジタル化した原本をキンドルストアで購入できました！良い時代になったもんです。話は逸れますが、有名な（？）「古来から日本においては、学者は必ず貧乏である。金持ちは必ず無学である。」の文言がこの本の冒頭にあったんですね。
 
 #+caption: 「帳合之法」2ページ
 #+name: 2page
-[[file:pics/s-choainoho-page02.jpg]]
-
+#+attr_html: :width 90%
+[[file:s-choainoho-page02.jpg]]
 
 ** 英語でもたいへんのようです
 
@@ -232,5 +232,9 @@ end apply
 この =apply account= は、さまざまなフェーズで経済的活動をしている多くの人にとって、とても便利な機能だと思います。
 
 
-# pics/s-choainoho-hyoshi.jpg http://org2-wp.kgt-yamy.tk/wp-content/uploads/2019/07/s-choainoho-hyoshi.jpg
-# pics/s-choainoho-page02.jpg http://org2-wp.kgt-yamy.tk/wp-content/uploads/2019/07/s-choainoho-page02.jpg
+* Acknowledgement
+
+# Local Variables:
+# eval: (org-hugo-auto-export-mode)
+# End:
+

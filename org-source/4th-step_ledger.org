@@ -1,17 +1,17 @@
-#+BLOG: yam's peace blog
-#+POSTID: 741
-#+DATE: [2019-07-07 日 16:15]
-# -*- mode: org; mode: org2blog/wp; -*-
-#+BLOG: yam's peace blog
-#+TITLE: プレーンテキストファイルで「複式」家計簿（4）
-#+CATEGORY: agriculture, accounting
-#+TAGS: ledger emacs accounting 
-#+OPTIONS:toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+PERMALINK: 
+#+title: プレーンテキストファイルで「複式」家計簿（4）
+#+date: [2019-07-07 日 16:15]
 
+#+hugo_base_dir: ~/blog-peace/hugo-site/
+#+hugo_section: posts
+#+options: toc:nil num:nil author:nil
+#+link: file file+sys:../static/
+#+draft: false
+
+#+TAGS: ledger emacs accounting 
 
 * トランザクションのスケジューリング 
 繰り返し発生するトランザクションをその都度、手入力するのはとても非合理的です。たしかにLedger-ver3のマニュアルには、Ledgerはそれを回避する機能をもっているとの記述はありますが、実際にどうやるのか具体的な説明は書かれていません。
+
 
 そのため結構四苦八苦しましたが、[[https://groups.google.com/forum/m/#!topic/ledger-cli/MZwjYEp2rjU][ここ]]の記事を見て「目からウロコ！」。やり方は簡単で、まずホームディレクトリに *ledger-schedule.ledger* という名前（ディフォールトです）で、次のようなコンテンツのファイルを作ります：
 #+begin_src
@@ -128,7 +128,8 @@ options=$1
 
 * 「帳簿の世界史（文春文庫）」
 
-[[file:pics/s-reckoning.jpg]]
+#+attr_html: :width 70%
+[[file:s-reckoning.jpg]]
 
 この本は *複式簿記* の歴史、というよりも歴史上のいくつかの王国や政府などが滅亡したのは、会計帳簿をきちんとつけなかったために財政破綻したからだ、というストーリになっています。この主張が歴史科学的にどれほど妥当なのかは門外漢のボクには評価できませんが、とても強い印象を受けました。
 
@@ -153,8 +154,11 @@ options=$1
 
 * COMMENT Acknowledgment
 
-[[file:pics/pacioli.jpg]] 　　  [[file:pics/jWiegley.jpg]]　　[[file:pics/Emacs-icon.png]]
+[[file:pacioli.jpg]] 　　  [[file:jWiegley.jpg]]　　[[file:Emacs-icon.png]]
 
 
 
-# pics/s-reckoning.jpg http://org2-wp.kgt-yamy.tk/wp-content/uploads/2019/07/s-reckoning.jpg
+# Local Variables:
+# eval: (org-hugo-auto-export-mode)
+# End:
+

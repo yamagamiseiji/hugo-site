@@ -1,13 +1,12 @@
-# -*- mode: org; mode: org2blog/wp; -*-
-#+BLOG: yam's peace blog
-#+POSTID:
-#+DATE: 
-#+TITLE: プレーンテキストファイルで「複式」家計簿（2）
-#+CATEGORY: agriculture, accounting
-#+TAGS: ledger emacs accounting 
-#+OPTIONS:toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+PERMALINK: 
+#+title: プレーンテキストファイルで「複式」家計簿（2）
+#+date: [2019-05-16]
 
+#+hugo_base_dir: ~/blog-peace/hugo-site/
+#+hugo_section: posts
+#+options: toc:nil num:nil author:nil
+#+link: file file+sys:../static/
+#+draft: false
+#+TAGS: ledger emacs accounting 
 
 * はじめに
  *=Ledger=* というプレーンテキストファイルに基づいて使える複式簿記、
@@ -72,7 +71,8 @@ Journalには同じお店や支払先などからのトランザクションが�
 
 #+caption: Emacs内に表示されるカレンダー
 #+name: emacs-calendar
-[[file:pics/emacs_calendar.png]]
+#+attr_html: :width 95%
+[[file:emacs_calendar.png]]
 
 その中から適当な日にちを選んでクリックします。
 日付けが選んだ日に変更された上で、
@@ -228,15 +228,9 @@ CSVを経由して他の会計ソフトや描画機能と連携することで�
 
 * Acknowledgment
 
-[[file:pics/pacioli.jpg]] 　　  [[file:pics/jWiegley.jpg]]　　[[file:pics/Emacs-icon.png]]
-
-
-* COMMENT コメントアウト
-** 予算建て
-** effective date
-** virtual account
-
-
+# Local Variables:
+# eval: (org-hugo-auto-export-mode)
+# End:
 
 
 

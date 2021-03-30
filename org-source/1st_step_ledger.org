@@ -1,12 +1,12 @@
-#+BLOG: yam's peace blog
-#+POSTID: 630
-#+DATE: [2019-04-28 日 09:25]
-# -*- mode: org; mode: org2blog/wp; -*-
-#+TITLE: プレーンテキストファイルで「複式」家計簿（１）
-#+CATEGORY: agriculture, accounting
+#+title: プレーンテキストファイルで「複式」家計簿（１）
+#+date: [2019-04-28 日 09:25]
+
+#+hugo_base_dir: ~/blog-peace/hugo-site/
+#+hugo_section: posts
+#+options: toc:nil num:nil author:nil
+#+link: file file+sys:../static/
+#+draft: false
 #+TAGS: ledger emacs accounting
-#+OPTIONS:toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+PERMALINK: 
 
 * はじめに
 簿記・会計のまったくの素人が、
@@ -362,11 +362,8 @@ Pfeiffer,T. (2016). Ledgerで経理　https://www.slideshare.net/pfi/ledger-5940
 
 https://www.ledger-cli.org/docs.html  マニュアルはこちらです
 
-* Acknowledgement
+* Footnote
 
-[[file:pics/pacioli.jpg]] 　　  [[file:pics/jWiegley.jpg]]　　[[file:pics/Emacs-icon.png]]
-
-
-# pics/pacioli.jpg http://org2-wp.kgt-yamy.tk/wp-content/uploads/2019/04/pacioli-1.jpg
-# pics/jWiegley.jpg http://org2-wp.kgt-yamy.tk/wp-content/uploads/2019/04/jWiegley-1.jpg
-# pics/Emacs-icon.png http://org2-wp.kgt-yamy.tk/wp-content/uploads/2019/04/Emacs-icon-1.png
+# Local Variables:
+# eval: (org-hugo-auto-export-mode)
+# End:

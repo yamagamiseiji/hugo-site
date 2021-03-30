@@ -1,13 +1,12 @@
-# -*- mode: org; mode: org2blog/wp; -*-
-#+BLOG: yam's peace blog
-#+POSTID: 686
-#+DATE: [2019-06-07 金 18:56]
-#+BLOG: yam's peace blog
-#+TITLE: プレーンテキストファイルで「複式」家計簿（3）
-#+CATEGORY: agriculture, accounting
+#+title: プレーンテキストファイルで「複式」家計簿（3）
+#+date: [2019-06-07 金 18:56]
+
+#+hugo_base_dir: ~/blog-peace/hugo-site/
+#+hugo_section: posts
+#+options: toc:nil num:nil author:nil
+#+link: file file+sys:../static/
+#+draft: false
 #+TAGS: ledger emacs accounting 
-#+OPTIONS:toc:t num:nil todo:nil pri:nil tags:nil ^:nil
-#+PERMALINK: 
 
 この（３）でも「その（２）」に引き続き、ちいさなTipsを備忘的に記します。
 
@@ -164,27 +163,17 @@ $ led reg --add-budget
 
 #+caption: 几帳です。記帳ではありませんw
 #+name: kichomen
-[[file:pics/kicho.jpg]]
+#+attr_html: :width 80%
+[[file:kicho.jpg]]
 
 
 それはさておき、Ledgerではプレーンテキストで複式簿記の原データが簡単に入力できます。このことによってボクは生まれて初めてストレスなく帳簿のデータ入力ができるようになりました。自分の性格に問題があって、そもそも帳簿や帳面をつけることに適性がなかったのではなくて、ボクの性分にあった入力方法と出会わなかったからだ、と今は思っています。
 
 * Acknowledgment
 
-[[file:pics/pacioli.jpg]] 　　  [[file:pics/jWiegley.jpg]]　　[[file:pics/Emacs-icon.png]]
+[[file:pacioli.jpg]] 　　  [[file:jWiegley.jpg]]　　[[file:Emacs-icon.png]]
 
 
-* COMMENT コメントアウト
-** 予算建て
-** effective date
-** virtual account
-** 固定費テンプレート
-** 銀行からの明細書を受信してからの動作
-- invoiceで記帳するなら = を使う
-- アカウントのカテゴリについて
-  - 簿記の仕訳ルールにしたがう方法もある
-
-# pics/kicho.jpg http://org2-wp.kgt-yamy.tk/wp-content/uploads/2019/06/kicho.jpg
-# pics/pacioli.jpg http://org2-wp.kgt-yamy.tk/wp-content/uploads/2019/06/pacioli.jpg
-# pics/jWiegley.jpg http://org2-wp.kgt-yamy.tk/wp-content/uploads/2019/06/jWiegley.jpg
-# pics/Emacs-icon.png http://org2-wp.kgt-yamy.tk/wp-content/uploads/2019/06/Emacs-icon.png
+# Local Variables:
+# eval: (org-hugo-auto-export-mode)
+# End:
