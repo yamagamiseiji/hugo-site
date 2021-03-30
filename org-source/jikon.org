@@ -1,12 +1,11 @@
-#+BLOG: yam's peace blog
-#+POSTID: 612
-#+DATE: [2019-04-15 月 23:29]
-# -*- mode: org; mode: org2blog/wp; -*-
-#+TITLE:「而今」とスイングボトル
-#+CATEGORY: etc
-#+TAGS: wine sake
-#+OPTIONS:toc:nil num:nil todo:nil pri:nil tags:nil ^:nil
-#+PERMALINK: 
+#+title:「而今」とスイングボトル 
+#+date: [2019-04-15 月 23:29]
+
+#+hugo_base_dir: ~/blog-peace/hugo-site/
+#+hugo_section: posts
+#+options: toc:nil num:nil author:nil
+#+link: file file+sys:../static/
+#+draft: false
 
 * 今宵から「而今」・・・
 
@@ -22,7 +21,8 @@
 
 #+caption:日本酒「而今」とスイングボトル
 #+name:fig1
-[[file:pics/jikon.jpg]]
+#+attr_html: :width 80%
+[[file:jikon.jpg]]
 
 おつまみは大阪の塩昆布と、元文学部長に教えて頂いた京都のお出汁で煮た野菜。
 飲んだ量は大したことはありませんが、世界が明るく見えるような酔い心地です。
@@ -32,7 +32,6 @@
 ** 日本酒ですw
 もちろん現今では、三重県産の日本酒ブランド名で知らぬ人無しの銘酒です。
 しかし、どうやらオリジンは「論語」にあって、日本語でも「而今而後」と四文字熟語として使われることがあります。また道元禅師が禅問答などで幾度かこの語を使われたとのことです。
-
 ** 論語では
 まずは論語では「泰伯[4]（[[https://plaza.rakuten.co.jp/abehirofumi/diary/200604240000/][出典]]）：
 #+begin_quote
@@ -70,4 +69,8 @@
 そもそも而今が今からということですから、
 「今宵から而今」というのは変な言い回しですねｗ
 
-# pics/jikon.jpg http://org2-wp.kgt-yamy.tk/wp-content/uploads/2019/04/jikon.jpg
+* Acknowledgement
+
+# Local Variables:
+# eval: (org-hugo-auto-export-mode)
+# End:

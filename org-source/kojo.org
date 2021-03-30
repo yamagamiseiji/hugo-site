@@ -11,10 +11,10 @@
 #+hugo_custom_front_matter: :toc true
 #+draft: false
 
-#+caption: テスト画像
-#+attr_org: :width 30%
-#+attr_html: :width 30% :aligne center
-[[file:me.jpg]]
+# #+caption: テスト画像
+# #+attr_org: :width 30%
+# #+attr_html: :width 30% :aligne center
+# [[file:me.jpg]]
 
 これまで2年ほどブログ書きは下のようなフローでやってきました。
 #+begin_example

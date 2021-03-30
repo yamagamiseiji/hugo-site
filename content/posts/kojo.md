@@ -8,8 +8,6 @@ draft = false
 toc = true
 +++
 
-{{< figure src="/me.jpg" caption="Figure 1: テスト画像" width="30%" >}}
-
 これまで2年ほどブログ書きは下のようなフローでやってきました。
 
 ```text

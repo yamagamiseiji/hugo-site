@@ -23,8 +23,8 @@
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0900</pubDate>
       
       <guid>https://born-in-bingo.netlify.app/posts/kojo/</guid>
-      <description>Figure 1: テスト画像
-  これまで2年ほどブログ書きは下のようなフローでやってきました。</description>
+      <description>これまで2年ほどブログ書きは下のようなフローでやってきました。
+Emacs &amp;gt; org2blog &amp;gt; WordPress &amp;gt; freenom &amp;gt; AWS しかし</description>
     </item>
     
     <item>
@@ -346,9 +346,20 @@ Ledgerのインストール インストール先のハードウエアは、Thin
     </item>
     
     <item>
+      <title>「而今」とスイングボトル</title>
+      <link>https://born-in-bingo.netlify.app/posts/jikon/</link>
+      <pubDate>Mon, 15 Apr 2019 23:29:00 +0900</pubDate>
+      
+      <guid>https://born-in-bingo.netlify.app/posts/jikon/</guid>
+      <description>今宵から「而今」・・・ 先般、定年退職に際してのお祝いということでぼくの日本酒の「お師匠さん（C・SKGMさん）」から、三重の銘酒＝「而今」を頂戴しておりましたが、本日より晴れて飲み始めました。
+頂戴したのが「生」だったものですから、どうしても冷蔵保存が必要でした。しかし、自宅にある冷蔵庫では日本酒の一升瓶を立てて格納・保存できないため、「而今」の一升瓶と同色の色付きスイングボトル(720ml)を購入し、それに詰め替えて冷蔵しておりました。
+  Figure 1: 日本酒「而今」とスイングボトル</description>
+    </item>
+    
+    <item>
       <title>さようなら, マイPHS！</title>
       <link>https://born-in-bingo.netlify.app/posts/keitai%E6%A9%9F%E7%A8%AE%E5%A4%89/</link>
-      <pubDate>Fri, 19 Apr 2019 00:00:00 +0900</pubDate>
+      <pubDate>Tue, 09 Apr 2019 00:00:00 +0900</pubDate>
       
       <guid>https://born-in-bingo.netlify.app/posts/keitai%E6%A9%9F%E7%A8%AE%E5%A4%89/</guid>
       <description>PHSの最期 Willcom以来、長らくPHS（070-xxxx-yyyy）を愛用していましたが、Willcomが2014年にSoftBank傘下のY!mobileブランドとなったのが運のつき（笑）、悲しいかな、ついに2020年7月にはサービス停止になるとのこと。
@@ -365,6 +376,66 @@ Ledgerのインストール インストール先のハードウエアは、Thin
       <description>2019年3月16日（土）に開催していただいたボクの退職祝賀会の多数の写真が幹事のみなさんのご尽力で本日公開されました。
   Figure 1: 集合写真（2019/03/16）
   ご参加されたみなさんは、当日配布された「式次第」にアクセス方法が書かれていますので、それをご覧ください。また当日、都合で参加されなかった方々も、祝賀会幹事のメールアドレス：　yamagamisensei＠gmail.</description>
+    </item>
+    
+    <item>
+      <title>山研のみなさん, ありがとうございました！</title>
+      <link>https://born-in-bingo.netlify.app/posts/soyokunoma-speech/</link>
+      <pubDate>Tue, 19 Mar 2019 22:27:00 +0900</pubDate>
+      
+      <guid>https://born-in-bingo.netlify.app/posts/soyokunoma-speech/</guid>
+      <description>退職祝賀会スピーチ原稿1 ごあいさつ　  日時： 2019年3月16日（土）13時30分〜16時 場所： 専修大学生田3号館7F　蒼翼の間  みなさん、今日は年度末3月のどまんなかの週末、それぞれのお立場で一番お忙しい時期に、こんなにも多数のみなさんにおいでいただき、本当にありがとうございます。感謝の言葉もありません。</description>
+    </item>
+    
+    <item>
+      <title>vivat senshu!</title>
+      <link>https://born-in-bingo.netlify.app/posts/vivat_senshu/</link>
+      <pubDate>Sun, 17 Mar 2019 22:09:00 +0900</pubDate>
+      
+      <guid>https://born-in-bingo.netlify.app/posts/vivat_senshu/</guid>
+      <description>退職者代表スピーチ1　（定年退職者慰労会）  日時： 2019年3月14日（木）17時〜19時 場所： ホテル・グランドパレス＠九段下  ごあいさつ 人間科学部の山上です。ご指名を頂きましたので、僭越ではありますが、定年退職の先生方、職員の皆様方を代表・・・というか代理として一言ご挨拶申し上げます。本日は、私ども退職する教員・職員のために、このような慰労会をお持ち頂き、ありがとうございます。こころから御礼申し上げます。</description>
+    </item>
+    
+    <item>
+      <title>山研年報に関する速報です</title>
+      <link>https://born-in-bingo.netlify.app/posts/yamaken/</link>
+      <pubDate>Thu, 07 Mar 2019 21:35:00 +0900</pubDate>
+      
+      <guid>https://born-in-bingo.netlify.app/posts/yamaken/</guid>
+      <description>Vol.9 の相互校閲プロセスが完了しました！ 2019年02月28日（木）をもって、山研年報 Vol.9 (2019)の学生相互校閲（peer review）プロセスが完了しました。1月19日に卒業論文の相互校閲作業を開始して以来、40日間もの大奮闘でした。みなさん、ほんとうにお疲れ様でした！　Vol.9 の相互校閲プロセスの詳細は こちら をご覧ください。プロセスの公開期間は数カ月程度を予定しています。</description>
+    </item>
+    
+    <item>
+      <title>名刺を自作しました</title>
+      <link>https://born-in-bingo.netlify.app/posts/makingmy%E5%90%8D%E5%88%BA/</link>
+      <pubDate>Wed, 27 Feb 2019 08:39:00 +0900</pubDate>
+      
+      <guid>https://born-in-bingo.netlify.app/posts/makingmy%E5%90%8D%E5%88%BA/</guid>
+      <description>自作するわけ まもなく（2019年3月末）大学を退職するので、４月以降は、
+ 名刺が大量に必要な場面への出番はなくなる 大学の費用で印刷してもらえない（これが最大の理由ｗ）  少ない枚数の名刺印刷を私費で印刷屋さんに依頼するのはどう考えてもコスト的に見合わない。だとしたら、この際、 人生初 の名刺自作にトライしようと思い立ったわけ。備忘も兼ねてここに紹介する。</description>
+    </item>
+    
+    <item>
+      <title>リモート温度計プロジェクト</title>
+      <link>https://born-in-bingo.netlify.app/posts/temp_katashina_prj/</link>
+      <pubDate>Wed, 13 Feb 2019 00:00:00 +0900</pubDate>
+      
+      <guid>https://born-in-bingo.netlify.app/posts/temp_katashina_prj/</guid>
+      <description>ねらい 寒冷地に別荘とか別宅とかをお持ちの方は、天気予報アプリなどでこまめに現地のお天気や温度をチェックされているようです。しかし困ったことに、人里離れた地方になればなるほど、また山岳地になればなるほど、メジャーな天気予報の観測点が、自分の調べたい場所と離れてきます。またさらに悪いことに、山間（やまあい）の土地だと、わずか数百メートル離れただけで、微妙な地形の違いによって日当たりや風の流れが変わります。温度も湿度もそれに伴って大きく変化します。
+2016年（平成28年）秋、武尊山の山麓にある畑小屋の室内温度と隣接する畑の気温を、本拠地であるヨコハマから、スポット的かつできるだけリアルタイムにモニターしたいと思い立ち、いろいろ試行錯誤の結果、とても原始的な方法ではありますが、何とか実用的な形ができあがりました。実際に運用を開始してから既に2年半、とくに大きな問題なく動いていますので、備忘もかねてここに紹介します。
+基本ポリシー 内外温度計を使って、室内温度は親機、屋外（畑）の気温は子機で測定します。PCにつないだカメラでその画面を、一定時間ごとにスチル撮影し保存します。保存した画像ファイルはレンタルサーバに転送します。
+具体的な方法について 用意する物品 必要なものは次のとおりです。</description>
+    </item>
+    
+    <item>
+      <title>新年のご挨拶</title>
+      <link>https://born-in-bingo.netlify.app/posts/2k19happynewyear/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0900</pubDate>
+      
+      <guid>https://born-in-bingo.netlify.app/posts/2k19happynewyear/</guid>
+      <description>平成31年（2019年）年頭にあたり年始のご挨拶を申し上げます。明けましておめでとうございます。みなさま方にはすばらしい新年をお迎えになったこととお慶び申し上げます。
+  Figure 1: ことしの年賀状
+  さて私事ではありますが、昭和54年（1979年）入職以来、 40年もの長きにわたりお世話になった専修大学を今年の3月末日を以って定年退職いたします。ご関係のみなさま方には大変にお世話になりました。心から御礼を申し上げます。ありがとうございました。</description>
     </item>
     
   </channel>

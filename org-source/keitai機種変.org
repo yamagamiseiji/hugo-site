@@ -1,5 +1,5 @@
 #+title: さようなら, マイPHS！
-#+date: [2019-04-19]
+#+date: [2019-04-09]
 
 #+hugo_base_dir: ~/blog-peace/hugo-site/
 #+hugo_section: posts
